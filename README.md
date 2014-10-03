@@ -8,7 +8,7 @@ BitBucket: https://bitbucket.org/brodie/cram/overview
 Usage: 
 
 ```
-alias cram='docker run -it -v $(pwd):$(pwd) -w $(pwd) zeisss/cram'
+alias cram='docker run -it -v $(pwd):$(pwd) -w $(pwd) zeisss/cram-docker'
 cram -h
 
 cat > simple.t <<EOF
