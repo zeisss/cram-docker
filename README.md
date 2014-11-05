@@ -5,6 +5,13 @@ Docker image of cram
 Homepage: https://bitheap.org/cram/
 BitBucket: https://bitbucket.org/brodie/cram/overview
 
+Build:
+
+```
+docker build -t zeisss/cram-docker .
+```
+
+
 Usage: 
 
 ```
