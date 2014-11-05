@@ -8,7 +8,7 @@ BitBucket: https://bitbucket.org/brodie/cram/overview
 Build:
 
 ```
-docker build -t zeiss/cramdocker .
+docker build -t zeisss/cram-docker .
 ```
 
 
